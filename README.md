@@ -119,12 +119,12 @@
 </td>
 <td width="50%" valign="top" align="center">
 <br>
-<h3><a href="https://github.com/haramrit09k/streamlit-stock-price">📈 Stock Dashboard</a></h3>
-<p>Interactive Streamlit dashboard for real-time stock price visualization</p>
+<h3><a href="https://github.com/haramrit09k/homeos-dashboard">🏠 HomeOS Dashboard</a></h3>
+<p>Custom smart home dashboard — built to replace Amazon Echo Show</p>
 <p>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/github/stars/haramrit09k/streamlit-stock-price?style=flat-square&color=blueviolet" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Smart%20Home-FF6EC7?style=flat-square" />
+<img src="https://img.shields.io/github/stars/haramrit09k/homeos-dashboard?style=flat-square&color=blueviolet" />
 </p>
 </td>
 </tr>
