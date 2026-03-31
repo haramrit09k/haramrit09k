@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=HARAMRIT%20SINGH&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Dev%20%7C%20Fintech%20%7C%20Game%20Creator&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%40+Citigroup+%F0%9F%8F%A6;Built+SpaceTerra+%E2%80%94+12%2C000%2B+players+%F0%9F%9A%80;Spring+Boot+%7C+Angular+%7C+Python;Open+to+Fintech+Collabs+%F0%9F%A4%9D;Always+shipping+something+cool+%E2%9A%A1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+%40+Citigroup+%F0%9F%8F%A6;Built+SpaceTerra+%E2%80%94+12%2C000%2B+players+%F0%9F%9A%80;MCP+Server+Author+%7C+AI+App+Builder+%E2%9A%A1;Spring+Boot+%7C+Angular+%7C+Python;Always+shipping+something+cool+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -20,10 +20,11 @@
 <td valign="top" width="60%">
 
 - 💻 **Full Stack Developer** @ Citigroup — Spring Boot, Angular, Python, Oracle SQL
-- 🚀 Built **[SpaceTerra](https://spaceterra.herokuapp.com/)** — a web game with **12,000+ players** during a gaming festival
+- 🚀 Built **[SpaceTerra](https://spaceterra.herokuapp.com/)** — a web game with **12,000+ players** at a gaming festival
+- 🤖 Created **[AI Interview Prep Mentor](https://ace-interview.app)** — live AI app for interview practice
+- 🔌 Built **[logscribe-mcp](https://github.com/haramrit09k/logscribe-mcp)** — a Model Context Protocol server
 - 🏦 Open to collaborating on **full-stack** and **fintech** projects
-- 🤝 Ask me about software development, web apps, or financial tech
-- ⚡ Currently exploring the intersection of **AI + fintech**
+- ⚡ Currently exploring **AI agents** + **fintech**
 
 </td>
 <td valign="top" align="center" width="40%">
@@ -84,6 +85,27 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/haramrit09k/spaceterra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haramrit09k&repo=spaceterra&theme=radical&hide_border=true" width="49%" />
+  </a>
+  <a href="https://github.com/haramrit09k/ai-interview-prep-mentor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haramrit09k&repo=ai-interview-prep-mentor&theme=radical&hide_border=true" width="49%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/haramrit09k/logscribe-mcp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haramrit09k&repo=logscribe-mcp&theme=radical&hide_border=true" width="49%" />
+  </a>
+  <a href="https://github.com/haramrit09k/streamlit-stock-price">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haramrit09k&repo=streamlit-stock-price&theme=radical&hide_border=true" width="49%" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -96,15 +118,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haramrit09k&theme=radical&hide_border=true&layout=compact" width="40%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haramrit09k&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haramrit09k&theme=radical&hide_border=true&langs_count=8&layout=donut-vertical" width="35%" />
 </p>
 
 ---
