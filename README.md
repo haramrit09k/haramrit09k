@@ -49,7 +49,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 **Frontend**
 
@@ -62,7 +61,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 **Databases**
 
@@ -80,37 +78,64 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/haramrit09k/spaceterra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haramrit09k&repo=spaceterra&theme=radical&hide_border=true" width="49%" />
-  </a>
-  <a href="https://github.com/haramrit09k/ai-interview-prep-mentor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haramrit09k&repo=ai-interview-prep-mentor&theme=radical&hide_border=true" width="49%" />
-  </a>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<br>
+<h3><a href="https://spaceterra.herokuapp.com/">🎮 SpaceTerra</a></h3>
+<p>Web game built for a gaming festival — <strong>12,000+ players</strong></p>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/github/stars/haramrit09k/spaceterra?style=flat-square&color=blueviolet" />
 </p>
-<p align="center">
-  <a href="https://github.com/haramrit09k/logscribe-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haramrit09k&repo=logscribe-mcp&theme=radical&hide_border=true" width="49%" />
-  </a>
-  <a href="https://github.com/haramrit09k/streamlit-stock-price">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haramrit09k&repo=streamlit-stock-price&theme=radical&hide_border=true" width="49%" />
-  </a>
+</td>
+<td width="50%" valign="top" align="center">
+<br>
+<h3><a href="https://ace-interview.app">🤖 AI Interview Mentor</a></h3>
+<p>AI-powered interview prep — live at <strong>ace-interview.app</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/AI-Powered-FF6EC7?style=flat-square" />
+<img src="https://img.shields.io/github/stars/haramrit09k/ai-interview-prep-mentor?style=flat-square&color=blueviolet" />
 </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<br>
+<h3><a href="https://github.com/haramrit09k/logscribe-mcp">🔌 logscribe-mcp</a></h3>
+<p>Lightweight Model Context Protocol server for structured log management</p>
+<p>
+<img src="https://img.shields.io/badge/MCP-Protocol-FF6EC7?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/github/stars/haramrit09k/logscribe-mcp?style=flat-square&color=blueviolet" />
+</p>
+</td>
+<td width="50%" valign="top" align="center">
+<br>
+<h3><a href="https://github.com/haramrit09k/streamlit-stock-price">📈 Stock Dashboard</a></h3>
+<p>Interactive Streamlit dashboard for real-time stock price visualization</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/github/stars/haramrit09k/streamlit-stock-price?style=flat-square&color=blueviolet" />
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haramrit09k&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haramrit09k&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haramrit09k&theme=radical&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
@@ -118,7 +143,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haramrit09k&theme=radical&hide_border=true&langs_count=8&layout=donut-vertical" width="35%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haramrit09k&theme=dracula" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haramrit09k&theme=dracula" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haramrit09k&theme=dracula" width="32%" />
 </p>
 
 ---
