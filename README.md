@@ -96,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haramrit09k&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haramrit09k&theme=radical&hide_border=true&layout=compact" width="40%" />
 </p>
 
 ---
@@ -104,7 +104,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haramrit09k&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=haramrit09k&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -126,9 +126,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=haramrit09k&icon=6&color=9" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=haramrit09k&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%" />
