@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=HARAMRIT%20SINGH&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Dev%20%7C%20Fintech%20%7C%20Game%20Creator&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%40+Citigroup+%F0%9F%8F%A6;Built+SpaceTerra+%E2%80%94+12%2C000%2B+players+%F0%9F%9A%80;Spring+Boot+%7C+Angular+%7C+Python;Open+to+Fintech+Collabs+%F0%9F%A4%9D;Always+shipping+something+cool+%E2%9A%A1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+%40+Citigroup+%F0%9F%8F%A6;Built+SpaceTerra+%E2%80%94+12%2C000%2B+players+%F0%9F%9A%80;MCP+Server+Author+%7C+AI+App+Builder+%E2%9A%A1;Spring+Boot+%7C+Angular+%7C+Python;Always+shipping+something+cool+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -20,10 +20,11 @@
 <td valign="top" width="60%">
 
 - 💻 **Full Stack Developer** @ Citigroup — Spring Boot, Angular, Python, Oracle SQL
-- 🚀 Built **[SpaceTerra](https://spaceterra.herokuapp.com/)** — a web game with **12,000+ players** during a gaming festival
+- 🚀 Built **[SpaceTerra](https://spaceterra.herokuapp.com/)** — a web game with **12,000+ players** at a gaming festival
+- 🤖 Created **[AI Interview Prep Mentor](https://ace-interview.app)** — live AI app for interview practice
+- 🔌 Built **[logscribe-mcp](https://github.com/haramrit09k/logscribe-mcp)** — a Model Context Protocol server
 - 🏦 Open to collaborating on **full-stack** and **fintech** projects
-- 🤝 Ask me about software development, web apps, or financial tech
-- ⚡ Currently exploring the intersection of **AI + fintech**
+- ⚡ Currently exploring **AI agents** + **fintech**
 
 </td>
 <td valign="top" align="center" width="40%">
@@ -48,7 +49,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 **Frontend**
 
@@ -61,7 +61,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 **Databases**
 
@@ -79,32 +78,74 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<br>
+<h3><a href="https://spaceterra.herokuapp.com/">🎮 SpaceTerra</a></h3>
+<p>Web game built for a gaming festival — <strong>12,000+ players</strong></p>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/github/stars/haramrit09k/spaceterra?style=flat-square&color=blueviolet" />
+</p>
+</td>
+<td width="50%" valign="top" align="center">
+<br>
+<h3><a href="https://ace-interview.app">🤖 AI Interview Mentor</a></h3>
+<p>AI-powered interview prep — live at <strong>ace-interview.app</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/AI-Powered-FF6EC7?style=flat-square" />
+<img src="https://img.shields.io/github/stars/haramrit09k/ai-interview-prep-mentor?style=flat-square&color=blueviolet" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<br>
+<h3><a href="https://github.com/haramrit09k/logscribe-mcp">🔌 logscribe-mcp</a></h3>
+<p>Lightweight Model Context Protocol server for structured log management</p>
+<p>
+<img src="https://img.shields.io/badge/MCP-Protocol-FF6EC7?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/github/stars/haramrit09k/logscribe-mcp?style=flat-square&color=blueviolet" />
+</p>
+</td>
+<td width="50%" valign="top" align="center">
+<br>
+<h3><a href="https://github.com/haramrit09k/homeos-dashboard">🏠 HomeOS Dashboard</a></h3>
+<p>Custom smart home dashboard — built to replace Amazon Echo Show</p>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Smart%20Home-FF6EC7?style=flat-square" />
+<img src="https://img.shields.io/github/stars/haramrit09k/homeos-dashboard?style=flat-square&color=blueviolet" />
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haramrit09k&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false" width="49%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haramrit09k&theme=synthwave&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haramrit09k&theme=radical&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haramrit09k&theme=synthwave&hide_border=true&area=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haramrit09k&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haramrit09k&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haramrit09k&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haramrit09k&theme=dracula" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haramrit09k&theme=dracula" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haramrit09k&theme=dracula" width="32%" />
 </p>
 
 ---
@@ -126,9 +167,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=haramrit09k&icon=6&color=9" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=haramrit09k&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%" />
